@@ -1,13 +1,10 @@
 # Basic data visualization and interactive graphic workflow, v. 0.01
 ##### ST. LOUIS POST DISPATCH & STLTODAY.COM
 
->  "Journalists need to be data-savvy . . . data-driven journalism is the future."
->  Sir Tim Berners Lee, Inventor of the World Wide Web.
-<p>
+>  "Journalists need to be data-savvy . . . data-driven journalism is the future." -Sir Tim Berners Lee, Inventor of the World Wide Web.
 
-> "Anyone can do it . . . data journalism is the new punk."
--simon Rogers, The Guardian</p>
- <p>
+> "Anyone can do it . . . data journalism is the new punk." -Simon Rogers, The Guardian</p>
+
 PREPARED BY: CARL V. LEWIS, MAR. 24, 2016
 
 
