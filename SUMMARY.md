@@ -1,3 +1,5 @@
-# Table of Contents
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Why Data and Interactives?](chapter1.md)
+
