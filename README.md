@@ -2,4 +2,6 @@
 # *St. Louis Post-Dispatch* Data and Interactive Graphics Workflow, V. 2.01
 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The following document specifies the Post-Dispatch graphic workflow. It consists of tutorials, workshop notes, resources and style principles.
+
+Its goal is to give  reporters greater agency to take numbers and -- without coding or technical epertise -- create basic data visualizations to give added engagement and time spent to their narratives.
