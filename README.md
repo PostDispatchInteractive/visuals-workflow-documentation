@@ -2,6 +2,11 @@
 # *St. Louis Post-Dispatch* Data and Interactive Graphics Workflow, V. 2.01
 
 
-The following document specifies the Post-Dispatch graphic workflow. It consists of tutorials, workshop notes, resources and style principles.
+The following document details the *Post-Dispatch* graphic workflow. It consists of tutorials, workshop notes, resources and a style guide. 
 
-Its goal is to give  reporters greater agency to take numbers and -- without coding or technical epertise -- create basic data visualizations to give added engagement and time spent to their narratives.
+Its goal is twofold: 
++ (a) to streamline the graphics workflow and accomodate the needs of both digital and print platforms.
+
++ (b) To empower reporters and editors with minimal technical expertise to create basic data visualizations that will increase engagement and time spent on content.
+
+The contents of this repository are free to use, and available under the MIT License.
