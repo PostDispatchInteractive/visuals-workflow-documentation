@@ -1,7 +1,7 @@
 ![](banner-color.png)
 # *St. Louis Post-Dispatch* Data and Interactive Graphics Workflow, V. 2.01
 
-"Data journalism is the new punk . . . anyone can do it."
+> "Data journalism is the new punk . . . anyone can do it.**Simon Rogers**, *The Guardian.*
 
 
 The following document details the *Post-Dispatch* graphic workflow. It consists of tutorials, workshop notes, resources and a style guide. 
