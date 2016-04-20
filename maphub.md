@@ -2,7 +2,7 @@
 ### Code-free cartographic visualizations under deadline 
 
  
-*While generally speaking, most geospatial datasets will require a broader range of technical expertise and more time than a reporter under deadline typically has, the most common and basic features of interactive and static maps can be quickly created using WYSIWYG (what you see is what you get) tools.*  
+*While generally speaking, most geospatial datasets will require a broader range of technical expertise and more time than a reporter under deadline typically has, the most common and basic features of interactive and static maps can be quickly created using WYSIWYG (what you see is what you get) tools -- and under deadline!*  
 
 --
 
